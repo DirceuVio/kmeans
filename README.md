@@ -56,5 +56,5 @@ git clone https://github.com/your-username/kmeans.git
 ```
 
 ## Dependencies
-NumPy
-SciPy
+- NumPy
+- SciPy
