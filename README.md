@@ -42,6 +42,11 @@ sns.scatterplot(x='PC1', y='PC2', data=df, hue='cluster', palette='viridis', leg
 plt.title('Scatter plot of PCA components with KMeans clusters')
 plt.show()
 ```
+### Example Output
+
+The following scatter plot illustrates the result of applying the K-Means clustering algorithm to the Iris dataset using three clusters:
+
+![K-Means Clustering](output.png)
 
 ## Installation
 To use this KMeans implementation, you can clone the repository and import the KMeans class into your project.
